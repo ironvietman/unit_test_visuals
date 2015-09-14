@@ -1,0 +1,173 @@
+body{
+	background-color: rgb(246, 246, 246);
+}
+
+#wrapper {
+	min-width: 300px;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+#footer {
+	width: 100%;
+	height: 50px;
+	margin-top: 20px;
+}
+
+#container {
+	padding: 10px;
+	height: 500px;
+}
+
+#container2 {
+	padding: 10px;
+	height: 500px;
+}
+
+#griddle_wrapper {
+	padding: 10px;
+}
+
+#example-progressive {
+  width: 100%;
+  height: 300px;
+  margin: 12px 0;
+}
+
+#siteDetailLoader {
+	margin: 50px;
+}
+
+h3 {
+	margin:0;
+	padding:0;
+}
+p {
+	padding-left: 5px;
+}
+
+/* High chart*/
+.highcharts-tooltip {
+	pointer-events:none;
+}
+
+/* help Overlays */
+
+#cover1{ position:fixed; 
+top:0; 
+left:0; 
+background:rgba(0,0,0,0.9); 
+z-index: 100; 
+width:100%; 
+height:100%; 
+display: none;
+} 
+
+#cover2{ position:fixed; 
+top:0; 
+left:0; 
+background:rgba(0,0,0,0.9); 
+z-index: 100; 
+width:100%; 
+height:100%; 
+display: none;
+} 
+
+
+.help{
+max-width: 700px;
+height: 80%;
+margin: 50px auto;
+color:#FEFEFE;
+overflow-y: auto;
+padding: 0  40px 0 40px;
+}
+
+.help::-webkit-scrollbar {
+    width: 20px;
+}
+ 
+.help::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+}
+
+#cover1:target { display:block; opacity:2; }
+#cover2:target { display:block; opacity:2; }
+
+.cancel
+{
+	float: right;
+	font-size: 40px;
+	margin: 0 50px;
+}
+.cancel a:link, .cancel  a:hover, .cancel  a:visited, .cancel  a:active {
+	color: #FFFFFF;
+}
+
+
+/* GRIDDLE */
+#grid, #pager {
+  width: 100%;
+  font-size: 10px;
+}
+
+#grid {
+  bottom: 0;
+  height: 300px;
+}
+
+#pager {
+  bottom: 306px;
+  height: 20px;
+}
+
+.slick-row:hover {
+  font-weight: bold;
+  color: #069;
+}
+
+/* SLICKGRID */
+/* Individual cell styles */
+.slick-cell.task-name {
+  font-weight: bold;
+  text-align: right;
+}
+
+.slick-cell.task-percent {
+  text-align: right;
+}
+
+.slick-cell.cell-move-handle {
+  font-weight: bold;
+  text-align: right;
+  border-right: solid gray;
+
+  background: #efefef;
+  cursor: move;
+}
+
+.cell-move-handle:hover {
+  background: #b6b9bd;
+}
+
+.slick-row.selected .cell-move-handle {
+  background: #D5DC8D;
+}
+
+.slick-row .cell-actions {
+  text-align: left;
+}
+
+.slick-row.complete {
+  background-color: #DFD;
+  color: #555;
+}
+
+.percent-complete-bar {
+  display: inline-block;
+  height: 6px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+}
+
+

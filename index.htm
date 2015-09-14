@@ -1,0 +1,134 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Unit Test Results</title>
+		<!-- STYLES -->
+		<link href="css/skeleton.css" rel="stylesheet" />
+		<link href="css/griddle.css" rel="stylesheet" />
+		<link rel="stylesheet" type="text/css" href="css/d3.parcoords.css">
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+		<!-- DATA -->
+		<script type="text/javascript" src="api/js/jquery.min.js"></script>
+		<script type="text/javascript" src="data/unit_test_jhuaplresults.json"></script>
+		<script type="text/javascript" src="data/unit_test_cresults.json"></script>
+		<!-- Tools -->
+		<script src="js/underscore-min.js"></script>
+		<script src="js/react.js"></script>
+		<script src="js/JSXTransformer.js"></script>
+		<script type="text/javascript" src="js/griddle.js"></script>
+		<script type="text/javascript" src="js/papaparse.js"></script>
+		<script type="text/javascript" src="js/d3.js"></script>
+		<script type="text/javascript" src="js/d3.parcoords.js"></script>
+		<!-- SlickGrid -->
+		<link rel="stylesheet" href="js/slickgrid/slick.grid.css" type="text/css"/>
+		<link rel="stylesheet" href="js/slickgrid/slick-default-theme.css" type="text/css"/>
+		<link rel="stylesheet" href="js/slickgrid/jquery-ui-1.8.16.custom.css" type="text/css"/>
+		<link rel="stylesheet" href="js/slickgrid/slick.pager.css" type="text/css"/>
+		<script src="js/slickgrid/jquery.event.drag-2.2.js"></script>
+		<script src="js/slickgrid/slick.core.js"></script>
+		<script src="js/slickgrid/slick.grid.js"></script>
+		<script src="js/slickgrid/slick.pager.js"></script>
+		<script src="js/slickgrid/slick.dataview.js"></script>
+		<script src="js/slickgrid/jquery-1.7.min.js"></script>
+		<script src="js/slickgrid/divgrid.js"></script>
+		<!-- MY SCRIPTS-->
+		<script type="text/javascript" src="js/charts.js"></script>
+		<script type="text/jsx" src="js/table.jsx"></script>
+		<script id="progressive" src="js/parcoords.js"></script>
+	</head>
+	<body>
+		<script src="js/highcharts.js"></script>
+		<script src="js/modules/heatmap.js"></script>
+		<script src="js/modules/treemap.js"></script>
+		<div id="wrapper">
+		<!-- Charts -->
+		<h3>Today's Unit Test Results</h3>
+		<p>The treemaps below show unit test pass/fail results from the overnight lag build. This provides an overall view of the state of the system. More details about the unit test results can be viewed using the table following the treemaps.<a href="#cover1">Learn More &gt;</a></p>
+		<div id="cover1" >
+		<div class="cancel" ><a href="#exit" >&times;</a> </div>
+		<div class="help">
+		<h3>How to use the treemap</h3><br>
+
+		<b>Levels</b>
+		<p>There are two treemaps, one for Java tests and the other for C++ tests. The treemaps are broken down to three levels.</p>
+		<ul>
+		<li>Level 1: Vob</li>
+		<li>Level 2: Package</li>
+		<li>Level 3: TestCase</li>
+		</ul>
+		<p>To drill down to the next level, simply click on the box. To drill up, use the button on the left available when you are not at the bottom level.</p>
+
+		<b>Colors</b>
+		<p>Each rectangle in Level 3 is filled with either green or red.<p>
+		<ul>
+		<li><font color="green">Green</font> = Test passed</li>
+		<li><font color="red">Red</font> = Test failed</li>
+		</ul>
+		<p>When on Levels 1 or 2, the color scale for the rectangle will be the average fail score for the package or vob ranging from 0 - 100, where 100 is a completely failing vob or package.</p>
+		</div>
+		</div>
+		<div id="container"></div>
+		<div id="container2"></div>
+		<!-- Table -->
+		<div id="griddle_wrapper">
+			<div id="mygriddle"></div>
+		</div>
+		<h3 name="parallel">Cumulative Unit Test Results</h3>
+		<p>The parallel coordinates plot below shows data for the curret calender year colored by day. More details for each line can be viewed in the linked table. <a href="#cover2">Learn More &gt;</a></p>
+		<div id="cover2" >
+		<div class="cancel" ><a href="#exit" >&times;</a> </div>
+		<div class="help">
+		<h3>How to use the parallel coordinates plot</h3><br>
+		<p>Each parallel axis on the plot shows different information about a particular testcase for a given day. 
+		</p>
+		<br>
+		<p>
+		Filtering tips:
+		<ul>
+		<li>
+		Data points can be filtered by a click and drag action along any axis.
+		</li>
+		<li>
+		Each axis can have its own filter.
+		</li>
+		<li>
+		Filters can be removed by clicking anywhere outside the filter box on the axis.
+		</li>
+		</ul>
+		<br>
+
+		Plot and table tips:
+		<ul>
+		<li>
+		Reordering axes can be done by dragging an axis title to a new location.
+		</li>
+		<li>
+		Hovering over any row on the table will highlight the data point in the parallel coordinates plot. 
+		</li>
+		<li>
+		Sorting a particular column on the table will change the rendering order on the plot.
+		</li>
+		<li>
+		Any clicks along an axis will cause the plot to render.
+		</li>
+		</ul>
+		</p>
+		</div>
+		</div>
+		<!-- Parallel Coords-->
+		<div id='siteLoader'> 
+        	<div id='siteDetailLoader'> 
+        	<img src='graphics/ajax-loader.gif' border='0'> 
+        	Please wait while the Parallel Coordinates Visual loads...<br /> <br /> 
+        	</div> 
+      	</div> 
+		<div id="example-progressive" class="parcoords" ></div>
+		<div id="pager"></div>
+		<div id="grid"></div>
+		<br>
+		<div id="linePlot"></div>
+		</div> <!-- Wrapper -->
+		<div id="footer"></div>
+	</body>
+</html>

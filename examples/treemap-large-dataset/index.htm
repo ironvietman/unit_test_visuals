@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Highcharts Example</title>
+
+		<script type="text/javascript" src="../../api/js/jquery.min.js"></script>
+		<script type="text/javascript" src="unit_test_data.json"></script>
+
+		<style type="text/css">
+#container {
+	min-width: 300px;
+	max-width: 600px;
+	margin: 0 auto;
+}
+		</style>
+		<script type="text/javascript">
+function getPoints(data) {
+var points = [],
+		region_p,
+		region_val,
+		region_colorVal,
+		region_i,
+		country_p,
+		country_i,
+		country_colorVal,
+		cause_p,
+	cause_i,
+		cause_name = [];
+	cause_name['Communicable & other Group I'] = 'Communicable diseases';
+	cause_name['Noncommunicable diseases'] = 'Non-communicable diseases';
+	cause_name['Injuries'] = 'Injuries';
+	region_i = 0;
+	for (var region in data) {
+		region_val = 0;
+		region_colorVal = 0;
+		region_p = {
+			id: "id_" + region_i,
+			name: region,
+		};
+		country_i = 0;
+		for (var country in data[region]) {
+			country_colorVal = 0;
+			country_p = {
+				id: region_p.id + "_" + country_i,
+				name: country,
+				parent: region_p.id
+			};
+			cause_i = 0;
+			for (var cause in data[region][country]) {
+				cause_p = {
+					id: country_p.id + "_" + cause_i,
+					name: cause,
+					parent: country_p.id,
+					value: 1, 
+					colorValue: data[region][country][cause].fail*100
+				};
+				region_val += cause_p.value;
+				region_colorVal += cause_p.colorValue;
+				country_colorVal += cause_p.colorValue;
+				points.push(cause_p);
+				cause_i++;
+			}
+			country_p.colorValue = Math.round(country_colorVal/cause_i);
+			points.push(country_p);
+			country_i++;
+		}
+		region_p.value = region_val;
+		region_p.colorValue =  Math.round((region_colorVal/country_i));
+		points.push(region_p);
+		region_i++;
+	}
+return points;
+}
+
+$(function () {
+	var points = getPoints(mydata);
+	
+	var chart = new Highcharts.Chart({
+		chart: {
+			renderTo: 'container'
+		},
+		colorAxis:{
+			stops:[
+			       [0, '#3fcb7c'],
+		               [0.5, '#fffbbc'],
+  		               [1, '#c4463a']
+            		],
+            		min: 0,
+            		max: 100,
+        		},
+
+		series: [{
+			type: "treemap",
+			layoutAlgorithm: 'squarified',
+			allowDrillToNode: true,
+			dataLabels: {
+				enabled: false
+			},
+			levelIsConstant: false,
+			levels: [{
+				level: 1,
+				dataLabels: {
+					enabled: true
+				},
+				borderWidth: 3
+			}],
+			data: points
+		}],
+		subtitle: {
+			text: 'Click points to drill down.'
+		},
+		title: {
+			text: 'Unit Test Results for JHUAPL'
+		}
+	});
+});
+		</script>
+	</head>
+	<body>
+<script src="../../js/highcharts.js"></script>
+<script src="../../js/modules/heatmap.js"></script>
+<script src="../../js/modules/treemap.js"></script>
+<div id="container"></div>
+	</body>
+</html>

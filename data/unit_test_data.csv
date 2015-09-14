@@ -1,0 +1,907 @@
+DATE_TIME,SYS_VER,PATH,TESTCASE,RUNTIME(sec),PASS/FAIL,TEST_TYPE
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/BigByteBufferUnitTest,test,0.088,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/BigByteBufferUnitTest,testWrap,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/BigByteBufferUnitTest,testWrap2,0.004,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPBitMaskUnitTest,testUnsetBitMaskLong,0.009,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPBitMaskUnitTest,testUpdateLong,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPBitMaskUnitTest,testSerializeBitMaskLong,0.005,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPBitMaskUnitTest,testToStringLong,0.003,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPBitMaskUnitTest,testSerializeBitMaskIntToLong,0.002,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPBitMaskUnitTest,testUnsetBitMask,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPBitMaskUnitTest,testSerializeBitMask,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPBitMaskUnitTest,testSerializeJsonBitMask,0.017,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPBitMaskUnitTest,testToString,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPBitMaskUnitTest,testSetBitMaskLong,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPBitMaskUnitTest,testSetBitMask,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPBitMaskUnitTest,testUpdate,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPSerializableFixedArrayUnitTest,testSerializeSize,0.004,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPSerializableFixedArrayUnitTest,testRemoveFromFull,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPSerializableFixedArrayUnitTest,testAddIfNotContains,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPSerializableFixedArrayUnitTest,testRemove,0.002,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/CPPSerializableFixedArrayUnitTest,testClear,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/DeltaSetUnitTest,testAddSubtract,0.006,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/DeltaSetUnitTest,testAddSubtractNoCache,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/DeltaSetUnitTest,testAddSubtractList,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/DeltaSetUnitTest,testSet,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/DeltaSetUnitTest,testSetChangeDetection,0.002,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/DoubleMapUnitTest,testSizeAndClear,0.002,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/DoubleMapUnitTest,testAddPair,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/DoubleMapUnitTest,testAddSet,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/DoubleMapUnitTest,testUpdateSet,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/DoubleMapUnitTest,testSetSet,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/DoubleMapUnitTest,testRemoveSet,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/OptionalValueUnitTest,testUnSet,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/OptionalValueUnitTest,testSetValue,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/OptionalValueUnitTest,testNewInstance,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/OptionalValueUnitTest,testOpEqAndAssignment,0.002,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/OptionalValueUnitTest,testReadObject_WriteObject,0.003,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/OptionalValueUnitTest,testConstructor,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/cache/LRUCacheMapUnitTest,testRetrievalOrdering,0.002,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/cache/LRUCacheMapUnitTest,testCapacity,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/communications/MessageUnitTest,testSerialization,0.003,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/ByteBufferTreeUnitTest,testChildNames,0.007,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/ByteBufferTreeUnitTest,testHasChild,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/ByteBufferTreeUnitTest,testGetChild,0.002,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/ByteBufferTreeUnitTest,testGetValue,0.002,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/ByteBufferTreeUnitTest,testErrorCheck,0.05,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/ByteBufferTreeUnitTest,testConstructor,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/ByteBufferUnitTest,testBufferGrowth,0.333,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/ByteBufferUnitTest,testSimpleWrite,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/ByteBufferUnitTest,testWritef,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/ByteBufferUnitTest,testConstructor,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/JsonBufferTreeUnitTest,testGetChild,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/JsonBufferTreeUnitTest,testGetValue,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/JsonBufferTreeUnitTest,testErrorCheck,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/JsonBufferTreeUnitTest,testArray,0.002,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/json/JsonBufferTreeUnitTest,testConstructor,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/math/MathStackMatrixUnitTest,testSymmetricAssignment,0.005,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/math/MathStackMatrixUnitTest,testAsymmetricAssignmentAndConversion,0.002,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/math/MathStackMatrixUnitTest,testAsymmetric,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/math/MathStackMatrixUnitTest,testMultZero,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/physics/TimeUnitTest,testOpAssignOfVeryNegativeTimeLength,0.085,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/queue/EmptyableConcurrentQueueUnitTest,testEmptyingQueue,3.007,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/queue/EmptyableConcurrentQueueUnitTest,testFillingQueue,3.002,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/queue/EmptyableConcurrentQueueUnitTest,testStoppingQueue,3.002,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/reputil/DifferenceMergeRoundTripUnitTest,testNoChanges,0.035,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/reputil/DifferenceMergeRoundTripUnitTest,testOneChange,0.03,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/reputil/DifferenceMergeRoundTripUnitTest,testManyChanges,0.019,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/reputil/DifferenceMergeRoundTripUnitTest,testRoundTrip,0.016,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/reputil/DifferencerUnitTest,testEntityDiff,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/reputil/DifferencerUnitTest,testLeafDifferene,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/reputil/MergerUnitTest,testReorderIndexNoGap,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/reputil/MergerUnitTest,testReorderIndexWithGaps,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/reputil/MergerUnitTest,testLeafMerge,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/reputil/MergerUnitTest,testEntityMerge,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/reputil/ObjectToRepNodeUnitTest,test1,0.005,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/reputil/RepNodeSerializerUnitTest,testDummy,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/reputil/RepNodeToObjectUnitTest,test1,0.014,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/test/CPPStringUnitTest,testNoOverflow,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/test/CPPStringUnitTest,testOverflow,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/test/CPPStringUnitTest,testReadWriteObject,0,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/test/CPPStringUnitTest,testReadWriteOverflowObject,0.001,PASS,unit
+2015-05-08T08:35:48,lag,/osi/fact/vob/jhuapl/fact/test/CPPStringUnitTest,testWriteToDirtyBuffer,0,PASS,unit
+2015-05-08T08:35:49,lag,/osi/util/vob/jhuapl/fact/osi/util/OSIGuidUnitTest,testStrings,0.044,PASS,unit
+2015-05-08T08:35:49,lag,/osi/util/vob/jhuapl/fact/osi/util/OSIGuidUnitTest,testSerialization,0.005,PASS,unit
+2015-05-08T08:35:49,lag,/osi/util/vob/jhuapl/fact/osi/util/OSIGuidUnitTest,testStreamSerialization,0.001,PASS,unit
+2015-05-08T08:35:49,lag,/osi/util/vob/jhuapl/fact/osi/util/OSIGuidUnitTest,testHashCode,0.002,PASS,unit
+2015-05-08T08:35:49,lag,/osi/util/vob/jhuapl/fact/osi/util/OSIGuidUnitTest,testSpecificString,0,PASS,unit
+2015-5-8T8:36:3,lag, /bfp/common/vob/bin/disk_recycler,test_dxconfig,0.02,PASS,unit
+2015-5-8T8:36:22,lag, /bfp/common/vob/bin/communications_test,RunTest,0,PASS,unit
+2015-5-8T8:44:0,lag, /bfp/common/vob/bin/communications_test,XMLMsgDataOverflow,0.01,PASS,unit
+2015-5-8T8:44:20,lag, /bfp/common/vob/bin/shm_unit_test,RunTest,0,PASS,unit
+2015-5-8T8:44:40,lag, /bfp/common/vob/bin/track_processor,initTrackProcessor,0.06,PASS,unit
+2015-5-8T8:44:40,lag, /bfp/common/vob/bin/track_processor,excludeTracks,13.29,PASS,unit
+2015-5-8T8:44:53,lag, /bfp/common/vob/bin/track_processor,ignore_ais_tracks,13.01,PASS,unit
+2015-5-8T8:45:27,lag, /bfp/common/vob/bin/mission_monitor,getLeadAndTrailTimes,0,PASS,unit
+2015-5-8T8:45:27,lag, /bfp/common/vob/bin/mission_monitor,shouldCleanupDB,0.01,PASS,unit
+2015-5-8T8:45:41,lag, /bfp/common/vob/bin/history_translator,generic_test,1.34,PASS,unit
+2015-5-8T8:46:5,lag, /bfp/common/vob/bin/site_db_mgr,SiteTasrManager_cleanup,0,PASS,unit
+2015-5-8T8:46:5,lag, /bfp/common/vob/bin/site_db_mgr,SiteTasrManager_loadtest,0.26,PASS,unit
+2015-5-8T8:56:25,lag, /bfp/common/vob/lib/resolver,find_this_file,0,PASS,unit
+2015-5-8T8:56:25,lag, /bfp/common/vob/lib/resolver,find_makefile,0,PASS,unit
+2015-5-8T8:56:41,lag, /bfp/common/vob/lib/physics,UTCTime_test,0,PASS,unit
+2015-5-8T8:56:54,lag, /bfp/common/vob/lib/guid,testSerialization,0,PASS,unit
+2015-5-8T8:56:54,lag, /bfp/common/vob/lib/guid,testJava,0,PASS,unit
+2015-5-8T8:56:54,lag, /bfp/common/vob/lib/guid,hob_test,0,PASS,unit
+2015-5-8T8:56:54,lag, /bfp/common/vob/lib/guid,collision_test,8.9,PASS,unit
+2015-5-8T8:57:3,lag, /bfp/common/vob/lib/guid,notation_test,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,CircularArray_resize,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,CircularArray_push,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,CircularArray_pop,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,testSymmetricAssignment,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,msmSerialization,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,asymmetricAssignmentConversion,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,testAsymmetric,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,testMultZero,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,testLapackFailure,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,testGetEigenVectorSlowFailure,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,testAllocation,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,testAssignment,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,testAdd,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,testSubtract,0,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,testInPlaceOps,0.01,PASS,unit
+2015-5-8T8:57:25,lag, /bfp/common/vob/lib/mathematics,testIdentityMult,0,PASS,unit
+2015-5-8T8:57:52,lag, /bfp/common/vob/lib/serialize,serializable_list_interop,0,PASS,unit
+2015-5-8T8:57:52,lag, /bfp/common/vob/lib/serialize,test_read_and_write,0,PASS,unit
+2015-5-8T8:57:52,lag, /bfp/common/vob/lib/serialize,basic_serialization_test,0,PASS,unit
+2015-5-8T8:57:52,lag, /bfp/common/vob/lib/serialize,FixedStringSerializationTest,0,FAIL,unit
+2015-5-8T8:58:11,lag, /bfp/common/vob/lib/dx_config,test_dxconfig_basics,0.01,PASS,unit
+2015-5-8T8:58:11,lag, /bfp/common/vob/lib/dx_config,test_dxconfig_repeats,0,PASS,unit
+2015-5-8T8:58:11,lag, /bfp/common/vob/lib/dx_config,test_dxconfig_beyond_timeout,0.01,FAIL,unit
+2015-5-8T8:58:11,lag, /bfp/common/vob/lib/dx_config,test_catalogDataDir,0.18,FAIL,unit
+,lag, /bfp/common/vob/lib/dx_config,test_catalogDataDirStartTimes,0.13,PASS,unit
+2015-5-8T8:58:11,lag, /bfp/common/vob/lib/dx_config,test_currentDxDirInFile,0.08,PASS,unit
+2015-5-8T8:58:30,lag, /bfp/common/vob/lib/tracking_filter,bestTestVsOld,0,FAIL,unit
+2015-5-8T8:58:30,lag, /bfp/common/vob/lib/tracking_filter,testVsOld,0.01,PASS,unit
+2015-5-8T8:58:30,lag, /bfp/common/vob/lib/tracking_filter,testStateSerialize,0.01,PASS,unit
+2015-5-8T8:58:30,lag, /bfp/common/vob/lib/tracking_filter,testCVKFSerialize,0,PASS,unit
+2015-5-8T8:58:30,lag, /bfp/common/vob/lib/tracking_filter,testZVKFSerialize,0,PASS,unit
+2015-5-8T8:59:4,lag, /bfp/common/vob/lib/nitf,testCreateNitfMovie,0.21,PASS,unit
+2015-5-8T8:59:22,lag, /bfp/common/vob/lib/seavue,Range_addRangeToList,0,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testEmptyList,0.01,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testEmptyIterators,0,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testWalkingOffTheDeepEndOfAnEmptyIterator,0,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testCompareBetweenTwoLists,0,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testEmptyArrayIteratorInvalid,0,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testEmptyArrayIteratorValid,0,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testEmptyPictureIterator,0.01,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testSinglePictureIterator,0,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testFullPictureIterator,0,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testFullArrayIterator,0,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testEmptyCombinedIterator,0,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testValidOnCombined,0,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testFullCombinedIterator,0,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testConstructorDestructor,0.01,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testTasrGuidMap,0.02,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testTasrPictureList,0.02,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testTasrBackwardsPictureList,0.01,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testTasrSingleList,0.02,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testTasrHistoryList,0.02,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testTasrArrayList,0.01,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testTasrCombinedList,0.02,PASS,unit
+2015-5-8T9:0:20,lag, /bfp/common/vob/lib/tasrdb,testTasrCombinedArrayList,0.01,PASS,unit
+2015-5-8T9:0:21,lag, /bfp/common/vob/lib/tasrdb,testNewStyleToOldStyleConvert,0.02,PASS,unit
+2015-5-8T9:0:21,lag, /bfp/common/vob/lib/tasrdb,testEmptyFiles,0.01,FAIL,unit
+2015-5-8T9:1:20,lag, /bfp/common/vob/lib/removable_media,Test_RemovableMediaList,0.01,PASS,unit
+2015-5-8T9:1:21,lag, /bfp/common/vob/lib/removable_media,Test_RemovableRecord,0.02,PASS,unit
+2015-5-8T9:1:36,lag, /bfp/common/vob/lib/poi_db_interface,POIPoint_test,0,PASS,unit
+2015-5-8T9:1:58,lag, /bfp/common/vob/lib/track_history,getLargeTrackHistory,0.65,FAIL,unit
+2015-5-8T9:1:59,lag, /bfp/common/vob/lib/track_history,extractHistoryNumbers,0,PASS,unit
+2015-5-8T9:1:59,lag, /bfp/common/vob/lib/track_history,getSelectTrackHistory,0.03,FAIL,unit
+2015-5-8T9:1:59,lag, /bfp/common/vob/lib/track_history,simpleGetSingleTrackPoint,0.02,FAIL,unit
+2015-5-8T9:1:59,lag, /bfp/common/vob/lib/track_history,getTrackAtTime,0.03,FAIL,unit
+2015-5-8T9:1:59,lag, /bfp/common/vob/lib/track_history,getTrackPictureAtTime,0.03,FAIL,unit
+2015-5-8T9:1:59,lag, /bfp/common/vob/lib/track_history,getBadTrack,0.02,FAIL,unit
+2015-5-8T9:1:59,lag, /bfp/common/vob/lib/track_history,getTracksForBadImage,0.02,PASS,unit
+2015-5-8T9:1:59,lag, /bfp/common/vob/lib/track_history,getImagesForBadTrack,0.03,PASS,unit
+2015-5-8T9:1:59,lag, /bfp/common/vob/lib/track_history,getImagesForTrack,0.02,FAIL,unit
+2015-5-8T9:1:59,lag, /bfp/common/vob/lib/track_history,getImagesForLinkedTracks,0.03,FAIL,unit
+2015-5-8T9:1:59,lag, /bfp/common/vob/lib/track_history,getImagesForAssociatedTracks,0.03,FAIL,unit
+2015-5-8T9:1:59,lag, /bfp/common/vob/lib/track_history,getDatabaseTimeLimits,0.02,FAIL,unit
+2015-5-8T9:2:0,lag, /bfp/common/vob/lib/track_history,deleteDatabaseHistories,0.03,FAIL,unit
+2015-5-8T9:2:0,lag, /bfp/common/vob/lib/track_history,checkDatabaseHostAndName,0,FAIL,unit
+2015-5-8T9:2:0,lag, /bfp/common/vob/lib/track_history,getFirstAndLastHistory,0.04,FAIL,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,getDbExtents,0.07,FAIL,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,getTotalNumberOfWaySegments,0,FAIL,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,getSegmentsAroundLatlon,0,FAIL,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,getNodesAndWaysInBoundingBox,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,getNodesAndWaysAndRoutesInBoundingBox,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,readVectorFile,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,clipActualWays,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,clipOneSegmentInto,0.01,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,clipOneSegmentCompletelyThrough,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,clipTwoSegmentsFirstInto,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,clipTwoSegmentsSecondInto,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,clipOneSegmentOutOf,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,clipTwoSegmentsSecondOutOf,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,clipTwoSegmentsFirstOutOf,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,clipTwoSegmentsBothThrough,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,clipTwoSegmentsOneOutOfOneInto,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,clipFourSegmentsOutInOutIn,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,clipMultipleWays,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,compareClippedVsNonClipped,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,compareClippedVsNonClipped2,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,compareAdjacentClippedPoints,0,PASS,unit
+2015-5-8T9:2:14,lag, /bfp/common/vob/lib/osm_tile,compareAdjacentClippedPoints_Buffer,0,PASS,unit
+2015-5-8T9:2:59,lag, /bfp/common/vob/lib/sensor_correction,instance_test,0.02,PASS,unit
+2015-5-8T9:2:59,lag, /bfp/common/vob/lib/sensor_correction,use_test,0,PASS,unit
+2015-5-8T9:3:22,lag, /bfp/common/vob/lib/img_req_db,Test_ImageTransmissionRequest,0.01,PASS,unit
+2015-5-8T9:3:23,lag, /bfp/common/vob/lib/img_req_db,Test_ImageTransmissionStatus,0,PASS,unit
+2015-5-8T9:3:24,lag, /bfp/common/vob/lib/img_req_db,Test_ImageRequestDBSubmitResponse,0.01,PASS,unit
+2015-5-8T9:3:25,lag, /bfp/common/vob/lib/img_req_db,Test_ImageRequestDBSubmit,0,FAIL,unit
+2015-5-8T9:3:41,lag, /bfp/common/vob/lib/assignment,MunkresAssignmentAlgorithm_test,0,PASS,unit
+2015-5-8T9:3:41,lag, /bfp/common/vob/lib/assignment,EmptyMatrix_test,0,PASS,unit
+2015-5-8T9:3:41,lag, /bfp/common/vob/lib/assignment,Scalar_test,0,PASS,unit
+2015-5-8T9:3:41,lag, /bfp/common/vob/lib/assignment,SimpleSquare_test,0,PASS,unit
+2015-5-8T9:3:41,lag, /bfp/common/vob/lib/assignment,SimpleRectangle_test,0.23,PASS,unit
+2015-5-8T9:3:41,lag, /bfp/common/vob/lib/assignment,NoSolutionSquare_test,0,PASS,unit
+2015-5-8T9:3:41,lag, /bfp/common/vob/lib/assignment,ComplexSquare_test,0,PASS,unit
+2015-5-8T9:3:41,lag, /bfp/common/vob/lib/assignment,ComplexRectangle_test,2.73,PASS,unit
+2015-5-8T9:3:44,lag, /bfp/common/vob/lib/assignment,PaddedMatrix_test,7.32,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,read_vob_files,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,read_multi_tail_file,0.02,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,xml_read_rand,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,cache_clear_rand,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,preferred_number_rand,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,force_new_rand,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,xml_read_seed0,0.01,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,xml_read_seed1,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,xml_read_seed2,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,xml_read_seed3,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,cache_clear_seed0,0.01,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,cache_clear_seed1,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,cache_clear_seed2,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,cache_clear_seed3,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,preferred_number_seed0,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,preferred_number_seed1,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,preferred_number_seed2,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,preferred_number_seed3,0.01,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,force_new_seed0,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,force_new_seed1,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,force_new_seed2,0,PASS,unit
+2015-5-8T9:4:18,lag, /bfp/common/vob/lib/phone_number_list,force_new_seed3,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,CompressedBitMask_constructor,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,CompressedBitMask_new_del,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,CompressedBitMask_growNot,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,CompressedBitMask_andSet,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,CompressedBitMask_shrink,0.01,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,CompressedBitMask_SetClrReadWrite,0.06,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,CompressedBitMask_copy,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,GuidReference_creation,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,GuidReference_readAndWrite,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,GuidReference_upperTest,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,ReferenceMgr_creation,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,ReferenceMgr_clearRcvdReferencesByStream,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,GuidReference_newSentGuidReference,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,GuidReference_newRcvdGuidReference,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,GuidReference_newSentSourceReference,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,GuidReference_newRcvdSourceReference,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,SourceReference_creation,0,PASS,unit
+2015-5-8T9:4:43,lag, /bfp/common/vob/lib/delta,SourceReference_readAndWrite,0,PASS,unit
+2015-5-8T9:5:22,lag, /bfp/common/vob/lib/big_message,testSimpleMessageJoin,0,PASS,unit
+2015-5-8T9:5:22,lag, /bfp/common/vob/lib/big_message,testSingleMessageCase,0,PASS,unit
+2015-5-8T9:5:22,lag, /bfp/common/vob/lib/big_message,testLRU,0,PASS,unit
+2015-5-8T9:5:22,lag, /bfp/common/vob/lib/big_message,testJava,0.01,PASS,unit
+2015-5-8T9:5:22,lag, /bfp/common/vob/lib/big_message,testChunkMessage,0,PASS,unit
+2015-5-8T9:5:23,lag, /bfp/common/vob/lib/big_message,testSendMessage,0.02,PASS,unit
+2015-5-8T9:5:50,lag, /bfp/common/vob/lib/db_util,rollup_test,0.08,PASS,unit
+2015-5-8T9:5:50,lag, /bfp/common/vob/lib/db_util,association_test,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/astrophysics/JNIAstroPhysicsUnitTest,testIsDaylight,0.165,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/big_message/BigMessageHandlerUnitTest,testSingleMessageCase,0.134,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/big_message/BigMessageHandlerUnitTest,testSimpleMessageJoin,0.084,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/big_message/BigMessageUnitTest,testChunking,0.015,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/collections/MapFileUnitTest,testNewFileConstructor,0.023,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/collections/MapFileUnitTest,testConstructorErrorChecks,0.001,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/collections/MapFileUnitTest,testLotsOfConstructorErrorChecks,0.002,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/collections/MapFileUnitTest,testTestObject,0.001,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/collections/MapFileUnitTest,testBasicWriteRead,0.003,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/collections/MapFileUnitTest,testMultipleWriteReadRemoveRead,0.005,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/collections/MapFileUnitTest,testLoadUpOneHashBucket,0.004,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/datastore/KeyUnitTest,testTrackKey,0.006,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/datastore/KeyUnitTest,testFromString,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/datastore/KeyUnitTest,testVersionedKeyMutability,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/decider/DeciderUnitTest,test1,0.647,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/decider/DeciderUnitTest,test2,0.004,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/decider/DeciderUnitTest,test3,0.004,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/decider/DeciderUnitTest,test4,0.004,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/geospatialindex/SpatialIndexUnitTest,testSpatialSpeed,1.903,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/geospatialindex/SpatialIndexUnitTest,testSpatialIndex,0.002,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/geospatialindex/SpatialIndexUnitTest,testPoles,0.002,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/img_req_db/test/ImageDBReaderWriterUnitTest,test,0.76,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/klv/KLVSerializerUnitTest,testWriteRead,0.005,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/klv/KLVSerializerUnitTest,testFullObject,0.003,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/klv/KLVSerializerUnitTest,testBER,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/klv/KLVSerializerUnitTest,testBERRoundTrip,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/model_msgs/TrackStateDeltaUpdateMsgUnitTest,testBasics,0.161,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/database/SharedMemoryJNIReplicatorDatabaseFunctionalTest,testBasicWrite,0.001,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/database/SharedMemoryJNIReplicatorDatabaseFunctionalTest,testWriteThenDelete,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/database/SharedMemoryJNIReplicatorDatabaseFunctionalTest,testWriteAndDelete,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/database/SharedMemoryJNIReplicatorDatabaseFunctionalTest,testDeduplication,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/database/SharedMemoryJNIReplicatorDatabaseFunctionalTest,testBasicClear,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/database/TrackDBUnitTest,testWriteAndReadTrack,14.552,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/database/TrackDBUnitTest,testSimpleHistory,10.786,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/database/TrackDBUnitTest,testGuidToId,11.075,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/database/WritableDBTrackStateUnitTest,testVS,0.006,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/database/WritableShmemTrackStateUnitTest,testSerialization,0.003,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/ImageDBUnitTest,test,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/MessageOperationsUnitTest,test1,0.014,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerBootstrapFunctionalTest,testBootstrap,31.689,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerBootstrapFunctionalTest,testDifferentMissionIDsPerRun,17.504,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerBootstrapFunctionalTest,testHistoryAndBootstrapping,21.975,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerCapacityFunctionalTest,test1000MessagesAt200MsgsPerSecond,15.621,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testOutOfOrderReplicatedGlobalUpdates,3.029,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testOutOfOrderReplicatedGlobalUpdatesDNC,1.634,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testUpdateLocalGlobalTrackChildren,1.584,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testInternalItemNumberAssignment,1.669,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testIgnoreDuplicateHistoryPoints,1.644,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDontAutoDropDNC,2.07,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testCreateAndDropDNCOnAssociation,1.735,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testCreateAndDropDNCOnGlobalTrack,1.542,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testCreateAndDropDNCOnAssociationReplicatedTrack,1.541,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testIgnorePositionGoingBackwardsOnHistoryUpdate,1.571,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testCreateAndDropDNCOnGlobalReplicatedTrack,1.635,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDropTentative,2.044,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testGetOrCreateDNCTrackForModification,1.547,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testConfigMessages,1.553,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTell,1.654,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTwinKinematicsWithNotification,1.9,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testBirthNotices,1.726,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTwinKinematics,1.733,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLoneKinematic,1.637,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDeathNotices,1.767,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testIgnoredFieldsOnTrackStateDBObjectUpdate,1.918,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testKinematicNoticeOnTrackStateDBObjectUpdate,1.588,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testGlobalHistoryUpdateDoesnAddHistoryForUnchangedRelations,1.55,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testGlobalMaintenanceAfterHistoryUpdate,1.551,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTrackRecomputationOnHistoryUpdateInAir,1.677,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testFlagsLikeTentativeNotErasedOnHistoryUpdate,1.726,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testBrokenGlobalAssociation,1.548,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testGlobalSource,1.541,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testNoSaveInvalidGlobal,1.634,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testImageAssociatons,1.723,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testManualDescriptionUpdate,1.701,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testImageToTrackCaching,1.914,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTrackPicture,2.222,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDetermineSaveMode,1.554,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testHistoryWithoutUpdatesMode,1.642,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testCombineEntireQueueMode,1.647,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDroppingMode,1.644,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDeleteImpliesDropped,1.7,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTentativeUpdate,1.672,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTentativeUpdateDeleteDisabled,1.674,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTentativeUpdateDeleteTimeout,1.969,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTentativeUpdateDeleteBigTimeout,1.934,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTentativePromote,1.678,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDeleteRemovesAssoc,1.629,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testSimpleHistoryNumbers,1.849,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLongHistory,16.333,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testHistoryUpdates,2.101,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testHistoryUpdatesWithScanTracks,1.77,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDbSource,1.677,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testHistoricUpdatesKeepImageIndexCurrent,1.686,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testHistoricUpdatesMultipleTracksPerImage,1.847,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDropSourcelessTrack,1.654,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testCarryLocalGlobalTrackForward,1.536,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLoneAmplifying,1.594,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testRefPointFlagAndEnum,1.625,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testEmergencyFlagAndEnum,1.626,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testCopyTQToLink16TQ,1.616,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testReverseTwinTrackAssociations,1.618,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testMerge,1.743,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testUndo,1.855,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLoneDelete,1.836,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDeleteExisting,1.696,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testMultipleDeletes,4.305,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testProfileExisting,1.662,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testProfileUnprofileExisting,1.743,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testNoDropManuals,2.028,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDropTrackTimeoutAndDelete,2.63,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testHideDncOnlyAfterAllChildrenAreDropped,4.244,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testHideTrackTimeout,4.111,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testMaxDroppedTrackThreshold,4.706,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTrackRemoves,3.81,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDontHideDroppedTrackTimeout,2.044,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDontHideOrDropBeforeTrackTimeout,2.029,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTimeAssignments,1.726,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testBitMaskUpdateBasic,1.598,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testBitMaskUpdateValues,1.665,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testBitMaskUpdateOutOfOrder,1.873,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testImageAssociationInfoBasic,1.686,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testImageAssociationInfoHasGoodIsar,1.834,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testImageAssociationInfoHasImagery,1.754,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testHistoryPoint,1.68,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testNoGlobalUpdateForRegularTrack,1.811,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testNoRegularUpdateForGlobalTrack,1.56,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testNoChangeSourceOnTrack,1.606,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testGlobalChildKeepAlive,1.54,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testGlobalUpdatesSetIndividualSources,1.55,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testGlobalTrackUpdateWithChildren,1.708,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testGlobalTrackUpdateWithChildrenAndRelations,1.884,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testChangedGlobalAndDroppedEmptyGlobal,1.699,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testCrazyGlobalHacksInNonGroundstation,1.535,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testGlobalTrackUpdateWithChildrenAndRelationsAndAmplifications,1.533,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testAssociateExisting,1.76,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTwinAssociateExisting,1.767,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testNoSelfAssociation,1.664,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testAssociationBetweenTracksFromSameSource,1.748,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testMultipleAssociations,2.102,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLoneDivergeTrackAssociation,1.543,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDivergeExistingTrackAssociation,1.673,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTwinDivergeExistingTrackAssociation,1.702,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTimeoutExistingTrackAssociation,1.676,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTwinTimeoutExistingTrackAssociation,1.685,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTimeoutExistingTrackAssociationAndRevive,1.755,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLinkError,1.524,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLinkToMissingDeadTrack,1.547,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLinkChildren,1.602,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLinkGlobals,1.629,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testBreakLinkExisting,1.629,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLinkExisting,1.601,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testNoSelfLink,1.542,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLinkBetweenLiveTracks,1.576,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLinkTransferImagery,1.634,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLoneImageAssociation,1.6,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTwinImageAssociations,1.69,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLoneDropImageAssociation,1.607,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTwinDropImageAssociation,1.681,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDropExistingImageAssociation,1.808,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTwinDropExistingImageAssociation,1.76,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testInitiationTime,2.112,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testInitiationTimeConversion,1.598,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testManualLengthOverride,1.62,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTwinAmplifying,1.672,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLoneDrop,1.597,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDropExisting,1.705,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testRepeatDropExisting,1.698,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTwinDropExisting,1.75,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDropUndrop,1.671,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTwinDropUndrop,1.75,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDropTiming,1.524,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDropUndropExisting,1.732,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testDropToggle,3.032,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testRepeatDropUndropExisting,1.743,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTwinDropUndropExisting,1.812,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testLoneTrackAssociation,1.594,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerFunctionalTest,testTwinTrackAssociations,1.605,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testMoveChild,1.511,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testAssociationOfGlobals,1.551,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testHistoryUpdatesLocalGlobalAsChild,1.534,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDeciderBasics,1.585,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDropRGChildren,1.569,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testRemoteNonGlobalDrops,1.564,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDropRemoteNonGlobal,1.565,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testManualLengthOverrideRemoteGlobal,1.582,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testPersistentSite,1.577,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testManualDropOfManual,1.564,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testEnusureUselessGlobalsAreHidden,1.52,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testManualAmpOfInvalidShellOfRemoteGlobal,1.532,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testManualTrackStateDBObjectUpdate,1.563,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDesignation,2.147,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testTrackDefinitions,1.516,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testAssociationDNC,1.546,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDivergeAssociation,1.58,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testTimeoutAssociation,1.567,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testTimeoutAssociationDNC,1.558,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDivergeAssociationDNC,1.555,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testManualAssociation,1.554,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testManualDivergeOnManualAssociation,1.571,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testLocalGlobalHoldingDropStroyedRemoteGlobal2,1.641,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testLocalGlobalHoldingDropStroyedRemoteGlobal,1.557,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDropStroyRGButNotItsChild,1.566,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testManualAssociationDNC,1.545,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testManualDivergeOnAutoAssociationRemoteTracks,1.581,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testManualDivergeOnAutoAssociation,1.588,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testGettingChildren,1.559,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testAssociationOfOneGlobal,1.557,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDropLGOneChild,1.534,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDropRGOneChild,1.544,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testHistoryUpdatesTwoChildGlobalOneChildGetsNewParentOldGlobalRcvdFirst,1.571,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testHistoryUpdatesTwoChildGlobal,1.548,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testHistoryUpdatesTwoChildGlobalOneChildGetsNewParentChildRcvdFirst,1.589,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testHistoryUpdatesTwoChildGlobalOneChildGetsNewParentNewGlobalRcvdFirst,1.573,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testOutOfOrderReplicatedGlobalUpdates,1.54,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testOutOfOrderReplicatedGlobalUpdatesDNC,1.545,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testUpdateLocalGlobalTrackChildren,1.536,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testInternalItemNumberAssignment,1.59,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testIgnoreDuplicateHistoryPoints,1.584,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDontAutoDropDNC,1.932,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testCreateAndDropDNCOnAssociation,1.647,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testCreateAndDropDNCOnAssociationReplicatedTrack,1.538,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testIgnorePositionGoingBackwardsOnHistoryUpdate,1.528,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testCreateAndDropDNCOnGlobalReplicatedTrack,1.545,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDropTentative,1.8,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testConfigMessages,1.525,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testHistoryUpdatesLocalGlobalChildFirst,1.527,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testHistoryUpdatesLocalGlobalContainerFirst,1.529,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDropLGChildren,1.662,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testMultipleAddDrops,1.987,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testHistoryUpdatesUpdateToChild,1.536,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testHistoryUpdatesRemoteGlobalUpdateWith2Children1BeingLocalGlobal,1.567,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testHistoryUpdatesDifferentOrder,1.777,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testLocalGlobals,1.516,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testAssociation,1.56,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testManualDescriptionUpdate,1.644,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testHistoryUpdatesWithScanTracks,1.743,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDbSource,1.649,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testHistoricUpdatesKeepImageIndexCurrent,1.658,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testHistoricUpdatesMultipleTracksPerImage,1.803,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testDropSourcelessTrack,1.62,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testCarryLocalGlobalTrackForward,1.663,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testNoDropManuals,1.875,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testManualLengthOverride,1.737,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLGFunctionalTest,testUndrop,1.74,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerLatencyFunctionalTest,test1,9.162,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerUnitTest,testBlankKinematic,3.011,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerUnitTest,testBlankAmplifying,3.004,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerUnitTest,testInvalidAmplifying,3.017,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerUnitTest,testInvalidAssociation,3.009,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerUnitTest,testInvalidLink,3.024,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerUnitTest,testDeleteClone,3.021,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerUnitTest,testBlankTrackAssociation,3.01,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerUnitTest,testBlankImageAssociation,3.008,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerUnitTest,testInvalidKinematics,3.006,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerUnitTest,testBlankDrop,3.009,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/OsiDbManagerUnitTest,testBlankLink,2.999,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/SpatialIndexDBUnitTest,testTodo,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/TrackCalculationsUnitTest,testTrackDefNum,0.001,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/TrackCalculationsUnitTest,testInternalItemNumber,0.231,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/TrackCalculationsUnitTest,testTimeAssignments,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/TwoDBManagerFunctionalTest,testLinksOnRemoteSystemWithImageryFlags_2_child,4.189,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/TwoDBManagerFunctionalTest,testLinksOnRemoteSystemWithImageryFlags_2_global,4.223,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/TwoDBManagerFunctionalTest,testTwoACReports,3.475,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_db_manager/test/TwoDBManagerFunctionalTest,testManualDivergeOnAutoAssociationRemoteTracks,4.746,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/MessageUnitTest,testWriteOnEmptyObjects,0.006,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/MessageUnitTest,testWriteReadOnEmptyObjects,0.003,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/MessageUnitTest,testCalculateWriteSizeOnEmptyObjects,0.001,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/MessageUnitTest,testConstructors,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/OSIBitMaskUpdateUnitTest,testCombine,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/OSIGuidListUnitTest,testGuidListSerialization,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/OSIGuidListUnitTest,test_no_guid,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/OSIGuidListUnitTest,test_one_guid,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/OSITrackSourceUnitTest,testSimpleSerialization,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/OSITrackUpdateUnitTest,testOldVersionSerialization,0.011,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/OSITrackUpdateUnitTest,testSimpleSerialization,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/SourcedOptionalValueUnitTest,testUnSet,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/SourcedOptionalValueUnitTest,testConstructor,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/SourcedOptionalValueUnitTest,testNewInstance,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/SourcedOptionalValueUnitTest,testOpEqAndAssignment,0.001,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/SourcedOptionalValueUnitTest,testReadObject_WriteObject,0.001,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/SourcedOptionalValueUnitTest,testSetValue,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/test/MessageUtilUnitTest,testMakeSureAllMessagesAreRegistered,6.591,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/test/MessageUtilUnitTest,testBigMessage,0.241,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_track_update/test/MessageUtilUnitTest,testTrackUpdateMessage,0.002,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_trackdb/CPPMessageCombineDiffUnitTest,testNothing,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_trackdb/OSITrackStateVSUnitTest,testCloneMessage,0.001,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_trackdb/OSITrackStateVSUnitTest,testTimeRoundTrip,0.002,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/osi_trackdb/OSITrackStateVSUnitTest,testCloneMessageWithSourcedOptionalValue,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/poi_db_interface/JNIPOIDBInterfaceUnitTest,testFalseLookup,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/poi_db_interface/JNIPOIDBInterfaceUnitTest,testGoodLookup,0.001,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/psddb/IndexedQueueBufferUnitTest,testSkip,0,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/psddb/IndexedQueueBufferUnitTest,testWrap,0.001,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/sharedmemtf/test/TrackFileDbUnitTest,testImageAssociationWithAssoociations,1.655,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/sharedmemtf/test/TrackFileDbUnitTest,testImageAssociation,1.594,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/sharedmemtf/test/TrackFileDbUnitTest,testImageAssociationWithLinks,1.625,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/sharedmemtf/test/TrackFileDbUnitTest,testImageAssociationWithRecursiveLinkAndAssoociation,1.678,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/sharedmemtf/test/TrackFileDbUnitTest,testTrackToImage,1.656,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/sharedmemtf/test/TrackFileDbUnitTest,testOnDemandAssociationLoading,1.62,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/sharedmemtf/test/TrackFileDbUnitTest,testDeleteHiddenFiltering,1.76,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/sharedmemtf/test/TrackFileDbUnitTest,testInvalidTrack,1.512,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/sharedmemtf/test/TrackFileHistoryUnitTest,testGetTrackHistory,3.762,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrDbUnitTest,testCreateTasrWriterTracks,0.007,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrDbUnitTest,testCreateTasrWriterAndReaderTracks,0.012,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrDbUnitTest,testSingleWriteTracks,0.01,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrDbUnitTest,testSingleWriteAndReadTracks,0.011,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrDbUnitTest,testMultipleWriteAndReadTracks,0.052,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrDbUnitTest,testCreateTasrWriterLobs,0.012,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrDbUnitTest,testCreateTasrWriterAndReaderLobs,0.014,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrDbUnitTest,testSingleWriteLobs,0.012,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrDbUnitTest,testSingleWriteAndReadLobs,0.016,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrDbUnitTest,test2WriteAndCombineLobs,0.027,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrDbUnitTest,test2WriteAndCombineLobsToNewSignal,0.025,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrDbUnitTest,testMultipleWriteAndCombineLobs,2.187,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrDbUnitTest,testLobHistory,0.032,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrIndexReaderUnitTest,testFactory,0.004,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrIndexReaderUnitTest,testTasrDirDoesNotExist,0.003,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrIndexReaderUnitTest,testTasrDirDoesNotExistDefaultComminst,0.002,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrIndexReaderUnitTest,testTasrDirEmpty,0.002,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrIndexReaderUnitTest,testTasrDirPopulatedWithSomeEmptyFiles,0.002,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrIndexReaderUnitTest,testTasrDirPopulatedWithSomeNonEmptyFilesButEmptySegments,0.059,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrIndexReaderUnitTest,testCantReadThenCanRead,0.053,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrIndexReaderUnitTest,testIndexAppend,0.002,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrIndexReaderUnitTest,testFirstLastTimes,0.016,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrIndexReaderUnitTest,testIteratorToOldStyle,0.128,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrIndexReaderUnitTest,testTimeQueries,0.004,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrIndexReaderUnitTest,testEmptyEndSegment,0.002,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrIndexReaderUnitTest,testDefaultDxDirAndDirChange,4.266,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testDedup,0.345,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testReadsPastEndOfLastPicture,0.362,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testQuerSpanningEntireFile,0.353,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testSinceIterators,0.365,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testWriteReadOneObjectInDebugDirectory,0.347,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testEmptyFiles,0.338,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testOneTrackNoPicture,0.337,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testOneTrackWithPicture,0.338,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testFilterByTime,0.344,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testTwoTrackPicturesFilteredByTime,0.356,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testQueriesAtEndOfTime,0.378,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testNoDedup,0.341,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testHistory,0.354,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrReaderUnitTest,testDrops,0.368,FAIL,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrWriterUnitTest,testWriteReadOneObjectInDebugDirectory,0.338,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrWriterUnitTest,testBasicTrackPicture,0.367,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrWriterUnitTest,testRollupsSince,0.244,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrWriterUnitTest,testNewPicture,2.293,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrWriterUnitTest,testNewPictureFillForward,2.701,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/tasrdb/TasrWriterUnitTest,testRollups,0.679,PASS,unit
+2015-05-08T09:06:03,lag,/osi/common/vob/jhuapl/fact/osi/common/track_display/TrackDisplayUnitTest,testLinkTrack,0,PASS,unit
+2015-5-8T9:6:26,lag, /bfp/feed/vob/bin/comm_dev_ifc,serialHandler_test,0.01,PASS,unit
+2015-5-8T9:6:28,lag, /bfp/feed/vob/bin/comm_dev_ifc,mangleNoCarrier_test,0.01,PASS,unit
+2015-5-8T9:6:31,lag, /bfp/feed/vob/bin/comm_dev_ifc,unmangleNoCarrier_test,0,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,init_test,0.02,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,azimuth_rate_test,0,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,elevation_rate_test,0,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,zoom_test,0,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,focus_test,0,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,near_camera_selected_test,0,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,astro_control_test,0,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,set_near_camera_test,0,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,set_astro_control_test,0,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,accept_steer_lat_lon_test,0,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,accept_steer_offset_test,0,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,accept_mode_astro_control_test,0,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,field_of_regard_test_1,0.05,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,field_of_regard_test_2,0,PASS,unit
+2015-5-8T9:6:56,lag, /bfp/feed/vob/bin/casos_interface,field_of_regard_test_3,0,PASS,unit
+2015-5-8T9:7:16,lag, /bfp/feed/vob/bin/image_transfer_manager,getJpegQualityAndRows,0,PASS,unit
+2015-5-8T9:7:29,lag, /bfp/feed/vob/bin/link_manager,LinkDataStream_test,0.01,PASS,unit
+2015-5-8T9:7:29,lag, /bfp/feed/vob/bin/link_manager,LinkDataStream_testGuaranteedDeliveryMode,0.03,PASS,unit
+2015-5-8T9:7:29,lag, /bfp/feed/vob/bin/link_manager,LinkDataStream_testBandwidthMetering,0,PASS,unit
+2015-5-8T9:7:40,lag, /bfp/feed/vob/bin/osi_replicator_track_AL,addReplicatorDataSent,0.04,PASS,unit
+2015-5-8T9:7:40,lag, /bfp/feed/vob/bin/osi_replicator_track_AL,addMultipleReplicatorDataSent,0.02,PASS,unit
+2015-5-8T9:7:51,lag, /bfp/feed/vob/bin/osichat_adaptive_layer,buildChatClientStatusReport,0,PASS,unit
+2015-5-8T9:8:16,lag, /bfp/feed/vob/bin/story_teller_ifc,test_timeParsing,0,PASS,unit
+2015-5-8T9:8:37,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStateALFilter_groundSendingGPSTrack,0,FAIL,unit
+2015-5-8T9:8:37,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStateALFilter_groundSendingNonGPSTrack,0,PASS,unit
+2015-5-8T9:8:37,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStateALFilter_airSendingTracks,0.01,PASS,unit
+2015-5-8T9:8:37,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStatePlusDelta_field_names,0,PASS,unit
+2015-5-8T9:8:37,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStateALPrioritizer_constructor,0,PASS,unit
+2015-5-8T9:8:37,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStateALPrioritizer_priority,0,PASS,unit
+2015-5-8T9:8:37,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStatePlusDelta_creation,0.01,PASS,unit
+2015-5-8T9:8:37,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStatePlusDelta_compression,0.04,PASS,unit
+2015-5-8T9:8:38,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStatePlusDelta_full_compression_per_field,0,PASS,unit
+2015-5-8T9:8:38,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStatePlusDelta_velocity_compression,0,PASS,unit
+2015-5-8T9:8:38,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStatePlusDelta_relations_and_amplifying_compression,0,PASS,unit
+2015-5-8T9:8:38,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStatePlusDelta_relations_deltas,0,PASS,unit
+2015-5-8T9:8:38,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStatePlusDelta_track_assoc_amplifying_deltas,0.01,PASS,unit
+2015-5-8T9:8:38,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStatePlusDelta_relations_combining,0.01,PASS,unit
+2015-5-8T9:8:38,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStatePlusDelta_track_association_amp_info_combining,0,PASS,unit
+2015-5-8T9:8:38,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStatePlusDelta_bitmask_delta_test,0,PASS,unit
+2015-5-8T9:8:38,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStatePlusDelta_component_compression,0,PASS,unit
+2015-5-8T9:8:38,lag, /bfp/feed/vob/bin/track_state_adaptive_layer,TrackStatePlusDelta_length_compression,0,PASS,unit
+2015-5-8T9:9:23,lag, /bfp/feed/vob/lib/link_executive,msgToServer_Header_test,0,PASS,unit
+2015-5-8T9:9:23,lag, /bfp/feed/vob/lib/link_executive,test_size_checksum,0.02,PASS,unit
+2015-5-8T9:9:23,lag, /bfp/feed/vob/lib/link_executive,deallocate_test,0,PASS,unit
+2015-5-8T9:9:34,lag, /bfp/feed/vob/lib/link_data_recorder,LinkDataRecorder_fileCreationCheck,0,PASS,unit
+2015-5-8T9:9:34,lag, /bfp/feed/vob/lib/link_data_recorder,LinkDataRecorder_receiveRecordCheck,0,PASS,unit
+2015-5-8T9:9:34,lag, /bfp/feed/vob/lib/link_data_recorder,LinkDataRecorder_sendRecordCheck,0,PASS,unit
+2015-5-8T9:9:34,lag, /bfp/feed/vob/lib/link_data_recorder,LinkDataRecorder_fileReadCheck,0.07,PASS,unit
+2015-5-8T9:10:6,lag, /bfp/feed/vob/lib/casos_messages,input_channel_test,0,PASS,unit
+2015-5-8T9:10:6,lag, /bfp/feed/vob/lib/casos_messages,output_channel_test,0,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkDataBlock_Constructor,0.01,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkDataQueue_insertDataBlock,0,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkDataQueue_modifyDataBlock,0,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkPriorityQueue_test,0.01,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkPriorityQueue_modify_with_different_priority,0,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkPriorityQueue_exercise_resend_queue,0,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkPriorityQueue_modify_ensure,0,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkPriorityQueue_set_guaranteed_attempts,0,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkDataSource_testBundling,0,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkDataSource_testPartialBundling,0.01,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkDataSource_testNoBundleOnDifferentGuarantees,0,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkDataSource_testBundlingOnDisabledChannel,0,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkDataSource_testBundlingOnDisabledSource,0,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkDataSource_testDontBundleExistingQueueContents,0,PASS,unit
+2015-5-8T9:10:16,lag, /bfp/feed/vob/lib/link_priority_queue,LinkDataSource_testInvalidPriority,0,PASS,unit
+2015-05-08T09:10:17,lag,/osi/feed/vob/jhuapl/fact/osi/feed/amrs/config/UnitTest,testRoundTripXML,0.631,PASS,unit
+2015-05-08T09:10:17,lag,/osi/feed/vob/jhuapl/fact/osi/feed/amrs/internal/KinematicRecordUnitTest,test,0.045,PASS,unit
+2015-05-08T09:10:17,lag,/osi/feed/vob/jhuapl/fact/osi/feed/amrs/messages/AMRSServerRequestUnitTest,test,0.083,PASS,unit
+2015-05-08T09:10:17,lag,/osi/feed/vob/jhuapl/fact/osi/feed/downlinkconfig/DownlinkConfigUnitTest,test1,0.145,PASS,unit
+2015-05-08T09:10:17,lag,/osi/feed/vob/jhuapl/fact/osi/feed/downlinkconfig/DownlinkConfigUnitTest,test2,0,PASS,unit
+2015-5-8T9:10:36,lag, /bfp/tracker/vob/bin/genealogist,minute_test,2.82,PASS,unit
+2015-5-8T9:10:41,lag, /bfp/tracker/vob/bin/genealogist,hour_test,3.02,PASS,unit
+2015-5-8T9:10:45,lag, /bfp/tracker/vob/bin/genealogist,source_test,2.89,PASS,unit
+2015-5-8T9:10:48,lag, /bfp/tracker/vob/bin/genealogist,correlation_test,3.02,PASS,unit
+2015-5-8T9:10:51,lag, /bfp/tracker/vob/bin/genealogist,revive_test,2.46,PASS,unit
+2015-5-8T9:10:54,lag, /bfp/tracker/vob/bin/genealogist,bootstrap_test,3.52,FAIL,unit
+2015-5-8T9:11:24,lag, /bfp/tracker/vob/bin/genealogist,bootstrap_test2,3.2,FAIL,unit
+2015-5-8T9:11:53,lag, /bfp/tracker/vob/bin/genealogist,cross_test,1.75,PASS,unit
+2015-5-8T9:11:55,lag, /bfp/tracker/vob/bin/genealogist,crazy_test,1.59,PASS,unit
+2015-5-8T9:11:57,lag, /bfp/tracker/vob/bin/genealogist,density_test,1.46,PASS,unit
+2015-5-8T9:11:58,lag, /bfp/tracker/vob/bin/genealogist,dnc_test,1.49,PASS,unit
+2015-5-8T9:12:0,lag, /bfp/tracker/vob/bin/genealogist,transfer_test,1.47,PASS,unit
+2015-5-8T9:12:1,lag, /bfp/tracker/vob/bin/genealogist,tail_number_test,2.2,PASS,unit
+2015-5-8T9:12:34,lag, /bfp/tracker/vob/bin/track_associator,TrackAssociationManager_csvTest,1.41,FAIL,unit
+2015-5-8T9:13:4,lag, /bfp/tracker/vob/bin/decider,decider_test_ignore_update,1.6,PASS,unit
+2015-5-8T9:13:5,lag, /bfp/tracker/vob/bin/decider,decider_test_associate,0,PASS,unit
+2015-5-8T9:13:5,lag, /bfp/tracker/vob/bin/decider,decider_test_already_associated,0,PASS,unit
+2015-5-8T9:13:5,lag, /bfp/tracker/vob/bin/decider,decider_test_break,0,PASS,unit
+2015-5-8T9:13:5,lag, /bfp/tracker/vob/bin/decider,decider_test_drop_single,0,PASS,unit
+2015-5-8T9:13:5,lag, /bfp/tracker/vob/bin/decider,decider_test_drop_global_basic,0,PASS,unit
+2015-5-8T9:13:5,lag, /bfp/tracker/vob/bin/decider,decider_test_overwrite_assoc,0,PASS,unit
+2015-5-8T9:13:5,lag, /bfp/tracker/vob/bin/decider,decider_test_drop_global_overalap,0,PASS,unit
+2015-5-8T9:13:5,lag, /bfp/tracker/vob/bin/decider,decider_test_manual_source,0.11,PASS,unit
+2015-5-8T9:13:5,lag, /bfp/tracker/vob/bin/decider,decider_test_attributes,0.91,PASS,unit
+2015-5-8T9:13:6,lag, /bfp/tracker/vob/bin/decider,decider_test_attributes_state,0,PASS,unit
+2015-5-8T9:13:6,lag, /bfp/tracker/vob/bin/decider,decider_test_series_rates,0.57,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_test_manual_intent,0.02,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_test_global_init,0,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_history_update_test,0.01,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_manual_history_update_test,0,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_overtake_value_test,0.02,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_age_threshold_test,0.09,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_source_hierarchy_test,0.07,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_history_to_keep_test,0.01,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_two_manuals_test,0.06,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,external_update_test,0,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,external_global_kinematic_test,0.06,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,external_global_amplifying_test,0.05,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,global_drop_resend_test,0,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_test_link_msg,0.01,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_test_history_link_msg,0,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,clean_slate,0.04,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,drop_track_test,0.03,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,inverse_drop_track_test,0.04,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,manual_global_amplifying_test,0.03,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,overwrite_manual_test,0,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_test_link_switching_globals,0.01,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_test_resize_history,0.02,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_test_bootstrapping,0,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,decider_test_timeout,0.07,PASS,unit
+2015-5-8T9:13:7,lag, /bfp/tracker/vob/bin/decider,relations_test,0.67,PASS,unit
+2015-5-8T9:13:8,lag, /bfp/tracker/vob/bin/decider,manual_relations_test,0.72,PASS,unit
+2015-5-8T9:13:9,lag, /bfp/tracker/vob/bin/decider,decider_test_dnc_algorithm,0.12,PASS,unit
+2015-5-8T9:13:9,lag, /bfp/tracker/vob/bin/decider,dont_send_global_test,10.34,FAIL,unit
+2015-5-8T9:13:19,lag, /bfp/tracker/vob/bin/decider,decider_test_dnc_time,0.09,PASS,unit
+2015-5-8T9:13:32,lag, /bfp/tracker/vob/bin/contact_playback,faketest_test,0,PASS,unit
+2015-5-8T9:14:6,lag, /bfp/tracker/vob/bin/correlator,store_track_data_entry_test,3.86,PASS,unit
+2015-5-8T9:14:11,lag, /bfp/tracker/vob/bin/correlator,spatial_index_test,8.3,PASS,unit
+2015-5-8T9:14:19,lag, /bfp/tracker/vob/bin/correlator,external_ais_radar_correlation,8.36,PASS,unit
+2015-5-8T9:14:27,lag, /bfp/tracker/vob/bin/correlator,external_ais_radar_decorrelation_timeout,8.29,PASS,unit
+2015-5-8T9:14:36,lag, /bfp/tracker/vob/bin/correlator,external_ais_radar_decorrelation_auto_diverge,8.34,PASS,unit
+2015-5-8T9:14:44,lag, /bfp/tracker/vob/bin/correlator,external_ais_radar_correlation_manual,8.37,PASS,unit
+2015-5-8T9:14:52,lag, /bfp/tracker/vob/bin/correlator,local_ais_link16_correlation,8.4,PASS,unit
+2015-5-8T9:15:36,lag, /bfp/tracker/vob/lib/internal_tracker_message,testMessagingSerialization,0,PASS,unit
+2015-5-8T9:15:57,lag, /bfp/tracker/vob/lib/initiation_sequential,ProcessedEndOfScan_serialize,0,PASS,unit
+2015-5-8T9:15:57,lag, /bfp/tracker/vob/lib/initiation_sequential,TrackConfidence_test,0.01,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_data_cache_add,0.02,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_data_cache_add_repeated,0,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_data_cache_getTrackData,0,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_data_get_guid_test,0,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_data_add_test,0,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_data_add_overwrite_test,0,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_window_size_test,0,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_data_many_test,0,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_data_get_num_updates_test,0,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_data_age_test,0,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_data_get_latest_update_time,0,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_data_bound_test,0,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_data_entry_test,0,PASS,unit
+2015-5-8T9:16:10,lag, /bfp/tracker/vob/lib/track_data_cache,track_data_entry_constructor_test,0,PASS,unit
+2015-5-8T9:16:23,lag, /bfp/tracker/vob/lib/track_association,TrackSourceMediator_test,0,PASS,unit
+2015-5-8T9:17:6,lag, /bfp/tracker/vob/lib/correlation,CorrelationAlgorithm_correlate_test,0.03,PASS,unit
+2015-5-8T9:17:6,lag, /bfp/tracker/vob/lib/correlation,CorrelationAlgorithm_processCorrelationResults_test,0.01,PASS,unit
+2015-5-8T9:17:6,lag, /bfp/tracker/vob/lib/correlation,CorrelationAlgorithm_getSources_test,0.02,PASS,unit
+2015-5-8T9:17:6,lag, /bfp/tracker/vob/lib/correlation,CorrelationAlgorithm_getRoughCheckThreshold_test,0.01,PASS,unit
+2015-5-8T9:17:6,lag, /bfp/tracker/vob/lib/correlation,CorrelationAlgorithm_getMaximumTimeBetweenUpdates_test,0.03,PASS,unit
+2015-5-8T9:17:6,lag, /bfp/tracker/vob/lib/correlation,CorrelationAlgorithm_getAllowAmbiguousCorrelations_test,0.01,PASS,unit
+2015-5-8T9:17:6,lag, /bfp/tracker/vob/lib/correlation,CorrelationAlgorithm_log_test,0.02,PASS,unit
+2015-5-8T9:17:6,lag, /bfp/tracker/vob/lib/correlation,CorrelationCheck_test,27.91,FAIL,unit
+2015-5-8T9:17:34,lag, /bfp/tracker/vob/lib/correlation,correlation_cluster_test1,0,PASS,unit
+2015-5-8T9:17:34,lag, /bfp/tracker/vob/lib/correlation,correlation_cluster_test2,0.01,PASS,unit
+2015-5-8T9:17:34,lag, /bfp/tracker/vob/lib/correlation,correlation_cluster_test3,0,PASS,unit
+2015-5-8T9:17:34,lag, /bfp/tracker/vob/lib/correlation,add_correlation_test,0,PASS,unit
+2015-5-8T9:17:34,lag, /bfp/tracker/vob/lib/correlation,add_firm_correlation_test,0,PASS,unit
+2015-5-8T9:17:34,lag, /bfp/tracker/vob/lib/correlation,add_cluster_test,0,PASS,unit
+2015-5-8T9:17:34,lag, /bfp/tracker/vob/lib/correlation,remove_correlation_test,0.01,PASS,unit
+2015-5-8T9:17:34,lag, /bfp/tracker/vob/lib/correlation,display_number_manager_test,0.04,PASS,unit
+2015-5-8T9:17:34,lag, /bfp/tracker/vob/lib/correlation,resolve_test,0.02,PASS,unit
+2015-5-8T9:17:34,lag, /bfp/tracker/vob/lib/correlation,global_number_maintenance_test,0,PASS,unit
+2015-5-8T9:17:34,lag, /bfp/tracker/vob/lib/correlation,single_track_global_test,0,PASS,unit
+2015-5-8T9:17:34,lag, /bfp/tracker/vob/lib/correlation,add_remove_track_test,0,PASS,unit
+2015-5-8T9:17:34,lag, /bfp/tracker/vob/lib/correlation,do_not_allow_ambiguous_test,0.5,PASS,unit
+2015-5-8T9:17:35,lag, /bfp/tracker/vob/lib/correlation,candidate_overtake_test,0.01,PASS,unit
+2015-5-8T9:17:35,lag, /bfp/tracker/vob/lib/correlation,image_guids_test,0,PASS,unit
+2015-5-8T9:17:35,lag, /bfp/tracker/vob/lib/correlation,maintain_eldest_child_test,0.02,PASS,unit
+2015-5-8T9:17:35,lag, /bfp/tracker/vob/lib/correlation,add_orphan_tracks_test,0,PASS,unit
+2015-5-8T9:17:35,lag, /bfp/tracker/vob/lib/correlation,test_serialize_cluster,0,PASS,unit
+2015-5-8T9:17:35,lag, /bfp/tracker/vob/lib/correlation,external_radar_ais_global_test,0.02,PASS,unit
+2015-5-8T9:17:35,lag, /bfp/tracker/vob/lib/correlation,external_radar_dnc_global_test,0.02,PASS,unit
+2015-5-8T9:17:35,lag, /bfp/tracker/vob/lib/correlation,manual_radar_dnc_global_test,0.01,PASS,unit
+2015-5-8T9:17:35,lag, /bfp/tracker/vob/lib/correlation,manual_with_prohibited_global_test,0.55,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,manual_with_prohibited_global_test_2,0.29,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,get_bounds_test,0.01,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,insert_entries_test,0,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,global_add_remove_test,0,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,global_equals_compare_operator,0,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,global_get_cost_test,0,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,serialize_global_test,0,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,global_family_equal_to,0,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,interface_test,0.02,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,CorrelationKey_test,0,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,serialize_key_test,0,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,SortedCircularBuffer_test,0,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,score_test,0,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,serializable_score_test,0,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,TrackSourceMediator_test,0,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,serialize_test,0,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,assign_test,0.08,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,overflow_test,0.18,PASS,unit
+2015-5-8T9:17:36,lag, /bfp/tracker/vob/lib/correlation,mahalanobis_test,0.01,FAIL,unit
+2015-5-8T9:17:50,lag, /bfp/tracker/vob/lib/genealogy,GenealogyAlgorithm_test,0.06,PASS,unit
+2015-5-8T9:17:50,lag, /bfp/tracker/vob/lib/genealogy,Acceleration_test,0,PASS,unit
+2015-5-8T9:17:50,lag, /bfp/tracker/vob/lib/genealogy,Specific_test,0.01,PASS,unit
+2015-5-8T9:17:50,lag, /bfp/tracker/vob/lib/genealogy,GenealogyTypedefs_test,0,PASS,unit
+2015-5-8T9:18:15,lag, /bfp/tracker/vob/lib/contact_generator,countGeneratedContacts,0,PASS,unit
+2015-5-8T9:18:43,lag, /bfp/tracker/vob/lib/lob_associator,spatial_index_triangle_valid_check,0,PASS,unit
+2015-5-8T9:18:56,lag, /bfp/tracker/vob/lib/contact_multiplier,ContactMultiplier_increaseContactDensity,0,PASS,unit
+2015-5-8T9:18:56,lag, /bfp/tracker/vob/lib/contact_multiplier,ContactMultiplier_increaseContactNumber,0.01,PASS,unit
+2015-5-8T9:18:56,lag, /bfp/tracker/vob/lib/contact_multiplier,ContactMultiplier_createWorstCaseScenario,1.09,PASS,unit
+2015-5-8T9:20:50,lag, /bfp/disp/vob/bin/tactical_video_replay,videoFileFinder_create_with_empty_image_dir,0,FAIL,unit
+2015-5-8T9:20:50,lag, /bfp/disp/vob/bin/tactical_video_replay,video_file_finder_make_file_active_starting_with_empty_image_dir,0,FAIL,unit
+2015-5-8T9:20:50,lag, /bfp/disp/vob/bin/tactical_video_replay,videoFileFinder_create_with_files_in_image_dir,0,FAIL,unit
+2015-5-8T9:20:50,lag, /bfp/disp/vob/bin/tactical_video_replay,video_file_finder_make_pre_existing_file_active,0.01,FAIL,unit
+2015-5-8T9:20:50,lag, /bfp/disp/vob/bin/tactical_video_replay,find_video_by_time_test,0,FAIL,unit
+2015-5-8T9:20:50,lag, /bfp/disp/vob/bin/tactical_video_replay,refresh_replayMaps,0,FAIL,unit
+2015-5-8T9:20:50,lag, /bfp/disp/vob/bin/tactical_video_replay,timing,0,FAIL,unit
+2015-5-8T9:20:50,lag, /bfp/disp/vob/bin/tactical_video_replay,edge_limits_and_multi_times,0,FAIL,unit
+2015-5-8T9:20:50,lag, /bfp/disp/vob/bin/tactical_video_replay,clean_up,0,PASS,unit
+2015-5-8T9:21:20,lag, /bfp/disp/vob/bin/turret_tracker,exampleFailTest,0,FAIL,unit
+2015-5-8T9:21:40,lag, /bfp/disp/vob/bin/turret_tracker,exampleFailTest,0,FAIL,integration
+2015-5-8T9:22:8,lag, /bfp/disp/vob/bin/turret_tracker,exampleFailTest,0,FAIL,system
+2015-5-8T9:22:57,lag, /bfp/disp/vob/lib/video_registration,AwesomeSingleCarTracking_test,0,PASS,unit
+2015-5-8T9:22:57,lag, /bfp/disp/vob/lib/video_registration,InboundTrucksManeuver_test,0,PASS,unit
+2015-5-8T9:22:57,lag, /bfp/disp/vob/lib/video_registration,SingleCarMeetsRunner_test,0,PASS,unit
+2015-5-8T9:22:57,lag, /bfp/disp/vob/lib/video_registration,predator_7_053331Z_test,9.2,FAIL,unit
+2015-05-08T09:23:23,lag,/osi/disp/vob/jhuapl/fact/osi/ppi/test/FilteredSignalIteratorUnitTest,testTimeBounds,0.467,PASS,unit
+2015-5-8T9:24:5,lag, /bfp/proprietary_fsi/vob/bin/safire_interface,safire_interface_init_test,0.01,PASS,unit
+2015-5-8T9:24:16,lag, /bfp/proprietary_fsi/vob/lib/safire_1553,angle_point_serialization_test,0,PASS,unit
+2015-5-8T9:24:16,lag, /bfp/proprietary_fsi/vob/lib/safire_1553,position_point_serialization_test,0,PASS,unit
+2015-5-8T9:24:16,lag, /bfp/proprietary_fsi/vob/lib/safire_1553,bearing_point_serialization_test,0,PASS,unit
+2015-5-8T9:24:16,lag, /bfp/proprietary_fsi/vob/lib/safire_1553,safire_status_point_serialization_test,0,PASS,unit
+2015-5-8T9:24:16,lag, /bfp/proprietary_fsi/vob/lib/safire_1553,safire_extended_status_serialization_test,0,PASS,unit
+2015-5-8T9:24:16,lag, /bfp/proprietary_fsi/vob/lib/safire_1553,aircraft_status_serialization_test,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,ForcedStandByTransition,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,OtherTransitions,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,receiverGain,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,antennaTilt,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,displayRange,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,graphicsIntensity,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,checkEnum,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,checkMode,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,antennaTiltToggle,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,sectorToggle,0.01,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,antennaStabilization,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,rangeRings,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,iffDisplayMode,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,deleteAllTracks,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,autoTracking,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,xModeToggle,0.01,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,antennaSpeed,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,stretch,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,jitter,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,startRange,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,precisionHook,0,PASS,unit
+2015-5-8T9:24:43,lag, /bfp/proprietary_seavue/vob/bin/seavue_sim,initiateISAR,0,PASS,unit
+2015-5-8T9:25:5,lag, /bfp/proprietary_seavue/vob/lib/seavue,Range_addRangeToList,0,PASS,unit
+2015-5-8T9:25:5,lag, /bfp/proprietary_seavue/vob/lib/seavue,SeaVueSearchStream_readStream,0,FAIL,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testASCII_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testBOOL32_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testCLT_CMD_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testCSCI_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testDWELL_MODE_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testERR_CODE_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testHANDSHAKE_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testIP_ADDR_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testMEAS_TIME_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testUTC_TIME_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testTRACK_SRC_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testRDR_MODE_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testSCAN_NUM_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testNAV_STATUS_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testACC32_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testLENGTH32_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testSAF32_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testSAF_ACC32_T,0.01,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testSAF_VEL32_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testTIME32_T,0,PASS,unit
+2015-5-8T9:25:19,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_types,testVEL32_T,0,PASS,unit
+2015-5-8T9:25:29,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_structures,testAC_ATT,0,PASS,unit
+2015-5-8T9:25:29,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_structures,testATT_CONTROL,0,PASS,unit
+2015-5-8T9:25:29,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_structures,testNETWORK_HEADER,0,PASS,unit
+2015-5-8T9:25:29,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_data_structures,testRX_TAG,0,PASS,unit
+2015-5-8T9:25:38,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_messages,testAC_ATT,0,PASS,unit
+2015-5-8T9:25:38,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_messages,testATT_CONTROL,0,PASS,unit
+2015-5-8T9:25:38,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_messages,testNETWORK_HEADER,0,PASS,unit
+2015-5-8T9:25:38,lag, /bfp/proprietary_selex_seaspray/vob/lib/seaspray_messages,testRX_TAG,0,PASS,unit
+2015-5-8T9:25:48,lag, /bfp/proprietary_selex_seaspray/vob/lib/selex_track_numbers,allocateNumbers,0.01,PASS,unit
+2015-5-8T9:25:48,lag, /bfp/proprietary_selex_seaspray/vob/lib/selex_track_numbers,allocateMultipleNumbers,0.02,PASS,unit
